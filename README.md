@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola a tod@s 👋
 
 <br />
 
@@ -7,15 +7,15 @@ Hola, mi nombre es [Christian](#), un apasionado desarrollador web autodidacta d
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💼 ¿Crees que puedo encajar en tu empresa?, [házmelo saber](mailto:christian.calvo.mateos@gmail.com) 👈
-- 💬 Preguntame tus dudas, te ayudaré en lo que pueda;
-**languages and tools:**  
+- 💬 Preguntame tus dudas, te ayudaré en lo que pueda
 
-<code><img height="20" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JavaScript"></code>
-<code><img height="20" src="https://ui5.sap.com/resources/sap/ui/documentation/sdk/images/logo_ui5.png" alt="SAPUI5"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+**Lenguajes con los que trabajo:**  
+<code><img height="20" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JavaScript"/></code>
+<code><img height="20" src="https://ui5.sap.com/resources/sap/ui/documentation/sdk/images/logo_ui5.png" alt="SAPUI5"/></code>
+<code><img height="20" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" alt="HTML5"/></code>
+<code><img height="20" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" alt="CSS3"/></code>
+<code><img height="20" src="https://cdn-icons-png.flaticon.com/512/919/919836.png" alt="MYSQL"/></code>
+<code><img height="20" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java"/></code>
 
 <!--END_SECTION:waka-->
 
