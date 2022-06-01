@@ -2,7 +2,7 @@
 
 <br />
 
-Hola, mi nombre es [Christian](#), un apasionado desarrollador web autodidacta de pila y técnico superior en desarrollo de aplicaciones multiplataforma. Mi pasión por el software radica en soñar ideas y hacerlas realidad con interfaces elegantes. Cuido mucho la experiencia, la arquitectura y la calidad del código de los desarrollos que pasan por mis manos.
+Hola, mi nombre es [Christian](https://christian-calvo.github.io/), un apasionado desarrollador web autodidacta de pila y técnico superior en desarrollo de aplicaciones multiplataforma. Mi pasión por el software radica en soñar ideas y hacerlas realidad con interfaces elegantes. Cuido mucho la experiencia, la arquitectura y la calidad del código de los desarrollos que pasan por mis manos.
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
@@ -10,6 +10,7 @@ Hola, mi nombre es [Christian](#), un apasionado desarrollador web autodidacta d
 - 💬 Preguntame tus dudas, te ayudaré en lo que pueda
 
 **Lenguajes con los que trabajo:**  
+
 <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JavaScript"/></code>
 <code><img height="20" src="https://ui5.sap.com/resources/sap/ui/documentation/sdk/images/logo_ui5.png" alt="SAPUI5"/></code>
 <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" alt="HTML5"/></code>
