@@ -6,7 +6,7 @@ Hola, mi nombre es [Christian](https://christian-calvo.github.io/), un apasionad
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 ¿Crees que puedo encajar en tu empresa?, [házmelo saber](mailto:christian.calvo.mateos@gmail.com) 👈
+- 💼 ¿Crees que puedo encajar en tu empresa?, [házmelo saber]((https://es.linkedin.com/in/christiancalvomateos)) 👈
 - 💬 Preguntame tus dudas, te ayudaré en lo que pueda
 
 **Lenguajes con los que trabajo:**  
